@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋
 
-Hi<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on Back End
 - 🌱 I’m currently learning about PHP and C#
