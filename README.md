@@ -28,6 +28,6 @@
  
  ![Snake animation](https://github.com/Juansantoss07/Juansantoss07/blob/output/github-contribution-grid-snake.svg)
  
+  <img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
 </div>
   
-  <img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="3000" height="300" />
