@@ -1,6 +1,6 @@
 ### Olá Mundo👋
 <hr>
-<h1>Sobre mim <br>
+<h2>Sobre mim </h2> <br>
 -🔭 Atualmente, estou atuando como desenvolvedor na TV1. <br>
 -🌱 A linguagem de programação que estou aprendendo no momento é PHP. <br>
 -💬 Pergunte-me sobre HTML, CSS, JavaScript, e Python.
