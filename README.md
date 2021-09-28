@@ -2,7 +2,7 @@
 
 -🔭 Atualmente, estou atuando como desenvolvedor na TV1. <br>
 -🌱 A linguagem de programação que estou aprendendo no momento é PHP. <br>
--💬 Pergunte-me sobre HTML< CSS, JavaScript, e Python.
+-💬 Pergunte-me sobre HTML, CSS, JavaScript, e Python.
 
 <div>
   <a href="https://github.com/Juansantoss07">
