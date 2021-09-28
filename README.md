@@ -1,8 +1,8 @@
 ### Hi👋
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
--🔭 Atualmente, estou atuando como desenvolvedor na TV1.
--🌱 A linguagem de programação que estou aprendendo no momento é PHP.
+-🔭 Atualmente, estou atuando como desenvolvedor na TV1. <br>
+-🌱 A linguagem de programação que estou aprendendo no momento é PHP. <br>
 -💬 Pergunte-me sobre HTML< CSS, JavaScript, e Python.
 
 <div>
