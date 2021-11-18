@@ -1,5 +1,5 @@
 ### Olá Mundo👋
--🔭 Atualmente, estou atuando como desenvolvedor na TV1. <br>
+-🔭 Atualmente, estou atuando como desenvolvedor estagiário na TV1. <br>
 -🌱 A linguagem de programação que estou aprendendo no momento é PHP. <br>
 -💬 Pergunte-me sobre HTML, CSS, JavaScript, e Python. 
 
