@@ -1,7 +1,9 @@
-### Olá Mundo👋
--🔭 Atualmente, estou atuando como desenvolvedor estagiário na TV1. <br>
--🌱 A linguagem de programação que estou aprendendo no momento é PHP. <br>
--💬 Pergunte-me sobre HTML, CSS, JavaScript, e Python. 
+### Hello World👋
+-🔭 Atualmente, estou trabalhando como desenvolvedor estagiário na TV1. <br>
+-🌱 Estudando no momento Laravel, Docker, MySQL e TypeScript. <br>
+-💭 Interesse em aprender sobre Rust, Java, AWS. <br>
+-🧠 Um bom conhecimento em PHP Orientado a objetos, Linux, JavaScript e Python. <br>
+-💬 Pergunte-me sobre HTML e CSS. 
 
 <div>
   <a href="https://github.com/Juansantoss07">
