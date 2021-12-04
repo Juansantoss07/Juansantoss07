@@ -3,6 +3,7 @@
 -🌱 Estudando no momento Laravel, Docker, MySQL e TypeScript. <br>
 -💭 Interesse em aprender sobre Rust, Java, AWS. <br>
 -🧠 Um bom conhecimento em PHP Orientado a objetos, Linux, JavaScript e Python. <br>
+-📚 Análise e Desenvolvimento de Sistemas na Uninove <br>
 -💬 Pergunte-me sobre HTML e CSS. 
 
 <div>
