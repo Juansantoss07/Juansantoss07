@@ -1,10 +1,10 @@
 ### Hello World👋
 -🔭 Atualmente, estou trabalhando como desenvolvedor estagiário na TV1. <br>
--🌱 Estudando no momento Laravel, Docker, MySQL e TypeScript. <br>
+-🌱 Estudando no momento Laravel, Docker, MySQL e Vue JS. <br>
 -💭 Interesse em aprender sobre Rust, Java, AWS. <br>
 -🧠 Um bom conhecimento em PHP Orientado a objetos, Linux, JavaScript, Git e Python. <br>
 -📚 Análise e Desenvolvimento de Sistemas na Uninove <br>
--💬 Pergunte-me sobre HTML e CSS. 
+-💬 Pergunte-me sobre HTML, CSS e JS. 
 
 <div>
   <a href="https://github.com/Juansantoss07">
