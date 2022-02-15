@@ -1,9 +1,9 @@
 ### Hello World👋
--🔭 Atualmente, estou trabalhando como desenvolvedor estagiário na TV1. <br>
--🌱 Estudando no momento Docker, e NextJS. <br>
--💭 Interesse em aprender sobre Rust, Java, AWS. <br>
--🧠 Conhecimento em HTML, CSS, JavaScript, Vue JS, PHP Orientado a objetos, Laravel, Linux, Git. <br>
--📚 Estudando Análise e Desenvolvimento de Sistemas na Uninove <br>
+-🔭 I am currently working as a developer on TV1. <br>
+-🌱 Currently studying Docker, and NextJS. <br>
+-💭 Interested in learning about Rust, Java, AWS. <br>
+-🧠 Knowledge in HTML, CSS, JavaScript, Vue JS, Object Oriented PHP, Laravel, Linux, Git. <br>
+-📚Studying Systems Analysis and Development at Uninove <br>
 
 <div>
   <a href="https://github.com/Juansantoss07">
