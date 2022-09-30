@@ -1,9 +1,9 @@
 ### Hello World👋
--🔭 I am currently working as a developer on TV1. <br>
--🌱 Currently studying Docker, and NextJS. <br>
--💭 Interested in learning about Rust, Java, AWS. <br>
+-🔭 I am currently working as a software developer at TV1. <br>
+-🌱 Currently taking the CS50 course (Computer Science) at Harvard, at EDX, in addition to taking the Dev Full Stack course at FreeCodeCamp. <br>
+-💭 Interested in studying machine learning. <br>
 -🧠 Knowledge in HTML, CSS, JavaScript, Vue JS, Object Oriented PHP, Laravel, Linux, Git. <br>
--📚Studying Systems Analysis and Development at Uninove <br>
+-📚 Graduated in Systems Analysis and Development at Uninove. <br>
 
 <div>
   <a href="https://github.com/Juansantoss07">
