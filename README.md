@@ -1,9 +1,8 @@
 ### Hello World👋
--🔭 I am currently working as a software developer at TV1. <br>
--🌱 Currently taking the CS50 course (Computer Science) at Harvard, at EDX, in addition to taking the Dev Full Stack course at FreeCodeCamp. <br>
--💭 Interested in studying machine learning. <br>
--🧠 Knowledge in HTML, CSS, JavaScript, Vue JS, Object Oriented PHP, Laravel, Linux, Git. <br>
--📚 Graduated in Systems Analysis and Development at Uninove. <br>
+-🌱 Atualmente cursando CS50 (Ciência da Computação) de Harvard, na EDX, além de fazer o curso Legacy Front end na FreeCodeCamp. <br> <br>
+-🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Vue JS, React, Jquery, NodeJS, EJS, Express, MySQL, metodologias ágeis, Linux e Git. <br> <br>
+-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
+-📚 Certificados do Curso Discover da Rocktseat, sendo eles o Explorar, Fundamentar e o Especializar. <br>
 
 <div>
   <a href="https://github.com/Juansantoss07">
@@ -16,10 +15,8 @@
     <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Juan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Juan-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Juan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Juan-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     
