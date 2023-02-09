@@ -1,6 +1,6 @@
 ### Hello World👋
 -🌱 Atualmente cursando CS50 (Ciência da Computação) de Harvard, na EDX, além de fazer o curso Legacy Front end na FreeCodeCamp. <br> <br>
--🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Vue JS, React, Jquery, NodeJS, EJS, Express, MySQL, metodologias ágeis, Linux e Git. <br> <br>
+-🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Typescript, Vue JS, React, Jquery, NodeJS, EJS, Express, MySQL, metodologias ágeis, Linux e Git. <br> <br>
 -🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
 -📚 Certificados do Curso Discover da Rocktseat, sendo eles o Explorar, Fundamentar e o Especializar. <br>
 
@@ -12,11 +12,19 @@
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Juan-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Juan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img align="center" alt="Juan-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Juan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Juan-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+    <img align="center" alt="Juan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Juan-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+    <img align="center" alt="Juan-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="Juan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+    <img align="center" alt="Juan-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Juan-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
     
   </div> <br>
 
