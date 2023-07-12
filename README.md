@@ -1,6 +1,6 @@
 ### Hello World👋
 -🌱 Atualmente cursando CS50 (Ciência da Computação) de Harvard, na EDX, além de fazer o curso Legacy Front end na FreeCodeCamp. <br> <br>
--🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Typescript, Vue JS, React, Jquery, NodeJS, EJS, Express, MySQL, metodologias ágeis, Linux e Git. <br> <br>
+-🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Typescript, Vue JS, React, Jquery, PHP, Magento, Laravel, MySQL, metodologias ágeis, Linux e Git. <br> <br>
 -🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
 -📚 Certificados do Curso Discover da Rocktseat, sendo eles o Explorar, Fundamentar e o Especializar. <br>
 
