@@ -1,5 +1,5 @@
 ### Hello World👋, meu nome é Juan! Sou dev Full-stack.
-- 🌱 Atualmente cursando CS50 (Ciência da Computação) disponibilizado por Harvard, na plataforma EDX, além de fazer o curso Certificação de full-stack legada disponibilizada por FreeCodeCamp. <br> <br>
+
 - 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br> <br>
 - 🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Typescript, Vue JS, React, Jquery, PHP, Magento 2, Laravel, MySQL, metodologias ágeis, Linux e Git. <br> <br>
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
