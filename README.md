@@ -3,8 +3,9 @@
 - 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br> <br>
 - 🧠 Conhecimento em HTML, CSS, SASS, Bootstrap, JavaScript, Typescript, Vue JS, React, Jquery, PHP, Magento 2, Laravel, MySQL, metodologias ágeis, Linux e Git. <br> <br>
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
-- 📚 Certificados do Curso Discover da Rocktseat, sendo eles o Explorar, Fundamentar e o Especializar. <br><br>
-- 👨‍💻 Trabalhei durante 1 ano como desenvolvedor front-end na Grupo TV1 com projetos para Mobil, Vivara, Avon, Heineken, Record TV, entre outros. <br><br>
+- 🎓 Cursando Pós-Graduação em Engenharia de Software pela Faculdade Metropolitana. <br><br>
+- 📚 Certificados Discover da Rocktseat = Explorar, Fundamentar e Especializar. <br><br>
+- 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na Grupo TV1 com projetos para Mobil, Vivara, Avon, Heineken, Record TV, entre outros. <br><br>
 - 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, Mundo Verde, Raia Drogasil, La Rouge, entre outros. <br>
 
 <div>
