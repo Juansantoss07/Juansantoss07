@@ -8,6 +8,7 @@
 - 📚 Certificados Discover da Rocktseat = Explorar, Fundamentar e Especializar. <br><br>
 - 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na Grupo TV1 com projetos para Mobil, Vivara, Avon, Heineken, Record TV, entre outros. <br><br>
 - 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, La Rouge, entre outros. <br>
+- 👨‍💻 +3 anos de experiência. <br>
 
 <div>
   <a href="https://github.com/Juansantoss07">
