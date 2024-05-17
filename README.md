@@ -42,5 +42,5 @@
 
   <div>
   <a href="https://github.com/Juansantoss07">
-  <img style="min-width:100vw;" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
+  <img style="min-width= 100vw;" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
 </div>
