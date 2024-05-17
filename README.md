@@ -10,12 +10,6 @@
 - 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, La Rouge, entre outros. <br>
 
 
-<div>
-  <a href="https://github.com/Juansantoss07">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
   <div style="display: inline_block"><br>
     <img align="center" alt="Juan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
@@ -43,7 +37,10 @@
   <a href="https://discord.gg/tXNQjJWykr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/juan-cunha-dos-santos-64b809181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
-
 </div>
-  
+
+
+  <div>
+  <a href="https://github.com/Juansantoss07">
+  <img style="min-width:100vw;" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
+</div>
