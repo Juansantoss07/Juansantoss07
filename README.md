@@ -10,6 +10,11 @@
 - 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, La Rouge, entre outros. <br>
 
 
+  <div>
+  <a href="https://github.com/Juansantoss07">
+  <img  height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
   <div style="display: inline_block"><br>
     <img align="center" alt="Juan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Juan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
@@ -40,7 +45,4 @@
 </div>
 
 
-  <div>
-  <a href="https://github.com/Juansantoss07">
-  <img style="min-width= 100vw;" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
