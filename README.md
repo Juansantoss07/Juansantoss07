@@ -1,10 +1,10 @@
 ### Hello World👋, meu nome é Juan! Sou dev Full-stack.
 
 - 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br> <br>
-- 🧠 Conhecimento em Html, Css, Sass, Bootstrap, JavaScript, Typescript, Vue JS, PHP, Laravel, Python, Django, Java, MySQL, metodologias ágeis, Linux e Git. <br> <br>
+- 🧠 Conhecimento em Html, Css, Sass, JavaScript, Typescript, Vue JS, PHP, Laravel, Python, Django, Java, Spring, MySQL. <br> <br>
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Uninove. <br><br>
 - 🎓 Cursando Pós-Graduação em Engenharia de Software pela Faculdade Metropolitana. <br><br>
-- 🎓 Aluno da Alura no projeto One da Oracle onde estou tendo aprendizados sobre Java. <br><br>
+- 🎓 Aluno da Alura no projeto One da Oracle. <br><br>
 - 📚 +3 anos de experiência. <br><br>
 - 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na Grupo TV1 com projetos para Mobil, Vivara, Avon, Heineken, Record TV, entre outros. <br><br>
 - 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, La Rouge, entre outros. <br>
