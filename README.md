@@ -6,8 +6,8 @@
 - 🎓 Cursando Pós-Graduação em Engenharia de Software pela Faculdade Metropolitana. <br><br>
 - 🎓 Formado pela Alura no projeto One da Oracle. <br><br>
 - 📚 +3 anos de experiência. <br><br>
-- 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na Grupo TV1 com projetos para Mobil, Vivara, Avon, Heineken, Record TV, entre outros. <br><br>
-- 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack PHP com foco em desenvolvimento de módulos magento 2, com projetos de e-commerce para Mixed, La Rouge, entre outros. <br>
+- 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na TV1.<br><br>
+- 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack PHP com foco em desenvolvimento de módulos e temas Magento 2. <br>
 
 
   <div>
