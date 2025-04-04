@@ -1,13 +1,10 @@
 ### Hello World👋, meu nome é Juan! Sou dev Full-stack.
 
-- 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br> <br>
-- 🧠 Conhecimento em Html, Css, Sass, JavaScript, Typescript, Vue JS, PHP, Laravel, Magento, Python, Django, Java, Spring, MySQL. <br> <br>
-- 🎓 Pós-Graduação em Engenharia de Software pela Faculdade Metropolitana. <br><br>
-- 🎓 Formado pela Alura no projeto One da Oracle. <br><br>
-- 📚 +3 anos de experiência. <br><br>
-- 👨‍💻 Trabalhei durante 1 ano como desenvolvedor full-stack na TV1.<br><br>
-- 👨‍💻 Trabalho atualmente na Group Moon como desenvolvedor full-stack PHP com foco em desenvolvimento de módulos e temas Magento 2. <br>
-
+- 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br>
+- 🧠 Conhecimentos principais em JavaScript, VueJS, PHP, Laravel, Magento e Java. <br>
+- 🎓 Pós-Graduado em Engenharia de Software. <br>
+- 🎓 Formação em Java pela Alura/Oracle Projeto One. <br>
+- 📚 Experiência em desenvolvimento desde 2021. <br>
 
   <div>
   <a href="https://github.com/Juansantoss07">
