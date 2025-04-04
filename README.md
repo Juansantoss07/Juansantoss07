@@ -1,6 +1,5 @@
-### Hello World👋, meu nome é Juan! Sou dev Full-stack.
+### Hello World👋, meu nome é Juan! Sou Web Developer Full-stack.
 
-- 💬 Estudante da lingua inglesa e espanhol pela instituição de ensino Kultivi. <br>
 - 🧠 Conhecimentos principais em JavaScript, VueJS, PHP, Laravel, Magento e Java. <br>
 - 🎓 Pós-Graduado em Engenharia de Software. <br>
 - 🎓 Formação em Java pela Alura/Oracle Projeto One. <br>
