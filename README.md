@@ -51,10 +51,6 @@ Sou um desenvolvedor full stack apaixonado por tecnologia, com sólida experiên
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Juansantoss07&theme=github-dark-blue" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansantoss07&layout=compact&theme=github_dark" />
 </p>
 
