@@ -29,7 +29,7 @@ Sou um desenvolvedor full stack apaixonado por tecnologia, com sólida experiên
 | 💻 Back-end        | 🎨 Front-end        | 🛒 E-commerce      | 🗄️ Banco de Dados   |
 |--------------------|--------------------|-------------------|---------------------|
 | Java (Spring)      | HTML5, CSS3        | Magento 2         | MySQL               |
-| Python             | Tailwind, SASS     | WooCommerce       | PostgreSQL          |
+| Python (Django)    | Tailwind, SASS     | WooCommerce       | PostgreSQL          |
 | PHP (Laravel)      | JavaScript, Vue    | Shopify           |                     |
 
 <br />
