@@ -26,19 +26,18 @@ Sou um desenvolvedor full stack apaixonado por tecnologia, com sólida experiên
 
 <div align="center">
 
-| 💻 Back-end        | 🎨 Front-end        | 🛒 E-commerce      | 🗄️ Banco de Dados   |
-|--------------------|--------------------|-------------------|---------------------|
-| Java (Spring)      | HTML5, CSS3        | Magento 2         | MySQL               |
-| Python (Django)    | Tailwind, SASS     | WooCommerce       | PostgreSQL          |
-| PHP (Laravel)      | JavaScript, Vue    | Shopify           |                     |
+| 💻 Back-end  | 🎨 Front-end   | 🛒 E-commerce      | 🗄️ Banco de Dados |
+| :---         | :---           | :---               | :---              |
+| Node.js      | React, Next.js | Temas para Magento | PostgreSQL        |
+| PHP, Laravel | Javascript     | Nuvemshop          |                   |
+|              | Tailwind, SASS | Shopify            |                   |      
 
 <br />
 
-| ⚙️ DevOps          | 🧰 Ferramentas        |
-|--------------------|-----------------------|
-| Docker             | IntelliJ IDEA         |
-| GitHub Actions     | Visual Studio Code    |
-| Ubuntu Linux       | Figma, Webflow        |
+| ⚙️ DevOps |
+| :---      |
+| Docker    |
+| AWS       |
 
 </div>
 
